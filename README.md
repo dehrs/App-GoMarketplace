@@ -1,8 +1,9 @@
 # App-GoMarketplace
 Desafio do módulo 3 do bootcamp da rocketseat GoStack
 
-### Funcionalidades da aplicação
 ![appGoMarketplace](appGoMarketplace.gif)
+
+### Funcionalidades da aplicação
 
 * Listar os produtos da fake API: Sua página Dashboard deve ser capaz de exibir uma listagem através de uma tabela, com os campos title, image_url e price.
 
